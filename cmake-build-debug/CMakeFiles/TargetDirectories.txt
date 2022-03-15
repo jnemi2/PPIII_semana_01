@@ -1,0 +1,3 @@
+C:/Users/Usuario/FIE/Practica Paradigmas III/Problema_01/cmake-build-debug/CMakeFiles/Problema_01.dir
+C:/Users/Usuario/FIE/Practica Paradigmas III/Problema_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/FIE/Practica Paradigmas III/Problema_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
